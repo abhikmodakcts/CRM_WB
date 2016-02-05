@@ -1,5 +1,6 @@
-/* Test Class for ClearLogs batch */
+/* Test Class for ClearLogs batch  */
 @isTest
+// Github Update
 public class CABatchProcessTest
 {
     static testmethod void Positive_testCABatch_1()
